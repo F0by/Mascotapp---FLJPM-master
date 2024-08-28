@@ -1,6 +1,6 @@
 # Proyecto Mascotapp
 
-Juan Pablo Martinez y Fabiana Lopez
+Juan Pablo Martinez y Fabiana Gabriela Lopez
 
 # Acerca del proyecto
 
